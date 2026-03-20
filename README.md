@@ -119,5 +119,3 @@ streamlit run app.py
 Rahul Choudhary
 
 ---
-
-## ⭐ If you found this useful, consider giving it a star!
