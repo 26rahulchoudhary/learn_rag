@@ -26,7 +26,7 @@ if st.button("Load Article"):
 # =========================
 # QUESTION INPUT
 # =========================
-query = st.text_input("Ask a question")
+query = st.text_input("Ask a question?")
 
 # =========================
 # RUN AGENT
